@@ -12,7 +12,6 @@ public class ExchangeValue {
     private String to;
     private Long id;
     private BigDecimal conversionMultiple;
-
     private int port;
 
     public int getPort() {
